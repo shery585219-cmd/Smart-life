@@ -1,0 +1,6 @@
+{
+  "name": "SmartLife - All-in-One Smart Assistant",
+  "description": "Smart, effortless daily life companion for tasks, habits, reminders, shopping, school & work organization with AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
